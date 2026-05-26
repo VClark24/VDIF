@@ -1,6 +1,4 @@
---------------------------------------------------------------------------------------------------------------
--- This is the top-level wrapper for the PRBS23 AXI Block. It was adapted from a generic AXI4-Lite Slave File
---------------------------------------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
